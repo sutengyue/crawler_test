@@ -1,0 +1,45 @@
+crawler:
+  max_depth: 3
+  delay: 1.0
+  timeout: 30
+  max_concurrent_requests: 10
+  user_agents:
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/121.0"
+    - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15"
+  target_websites:
+    - name: "msb"
+      url: "https://www.mashibing.com"
+      allowed_domains:
+        - "mashibing.com"
+      start_urls:
+        - "https://www.mashibing.com"
+      max_pages: 100
+
+indexer:
+  index_dir: "./data/index"
+  snapshot_dir: "./data/snapshots"
+  max_index_size: 1000000000
+
+search:
+  default_limit: 10
+  max_limit: 100
+  highlight_tag: "<mark>"
+  suggest_threshold: 0.8
+
+redis:
+  enabled: false
+  host: "localhost"
+  port: 6379
+  db: 0
+  ttl: 86400
+
+logging:
+  level: "INFO"
+  file: "./logs/search_engine.log"
+  rotation: "1 week"
+  retention: "1 month"
+
+scheduler:
+  enabled: true
+  interval_hours: 24

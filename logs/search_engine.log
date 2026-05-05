@@ -1,0 +1,192 @@
+2026-05-05 16:31:56 | INFO     | src.indexer.whoosh_indexer:_init_index:42 - Created new index at ./data/index
+2026-05-05 16:31:56 | INFO     | __main__:main:30 - Starting crawl command
+2026-05-05 16:31:57 | INFO     | __main__:main:43 - Crawled 0 pages
+2026-05-05 16:31:57 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:33:14 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:33:14 | INFO     | __main__:main:81 - Starting API server
+2026-05-05 16:33:14 | INFO     | src.api.fastapi_app:run:165 - Starting FastAPI server on 0.0.0.0:8000
+2026-05-05 16:34:46 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:34:46 | INFO     | __main__:main:30 - Starting crawl command
+2026-05-05 16:34:46 | INFO     | __main__:main:43 - Crawled 0 pages
+2026-05-05 16:34:46 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:34:46 | INFO     | src.indexer.whoosh_indexer:optimize:80 - Index optimized
+2026-05-05 16:34:46 | INFO     | __main__:main:59 - Indexing completed
+2026-05-05 16:34:55 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:34:55 | INFO     | __main__:main:81 - Starting API server
+2026-05-05 16:34:55 | INFO     | src.api.fastapi_app:run:165 - Starting FastAPI server on 0.0.0.0:8000
+2026-05-05 16:40:52 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:40:52 | INFO     | __main__:main:30 - Starting crawl command
+2026-05-05 16:40:52 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [0] https://www.mashibing.com
+2026-05-05 16:40:54 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/186
+2026-05-05 16:40:56 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/132
+2026-05-05 16:40:57 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/121
+2026-05-05 16:40:58 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/21
+2026-05-05 16:40:59 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/leader_board
+2026-05-05 16:41:00 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/157
+2026-05-05 16:41:01 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/192
+2026-05-05 16:41:02 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/102
+2026-05-05 16:41:04 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/
+2026-05-05 16:41:05 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/open-live
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/14
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/courses?productType=1
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/13
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/135
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/16
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/2
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/1
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/170
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/careerplan
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/183
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/team
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/191
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/job
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/about
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/130
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/20
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subjects
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/courses?productType=2
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/courses?productType=0
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/193
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/7
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/question
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/134
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/18
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/169
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/exam
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/5
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/courses
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/9
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/173
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/22
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/168
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/88
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/25
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/doccourse
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/sf/mashibing.html
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/182
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/vlive
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/133
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/167
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/subject/15
+2026-05-05 16:41:06 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [1] https://www.mashibing.com/update
+2026-05-05 16:41:13 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/sf/aboute.html
+2026-05-05 16:41:22 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/17
+2026-05-05 16:41:22 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/79
+2026-05-05 16:41:22 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/11
+2026-05-05 16:41:22 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/8
+2026-05-05 16:41:22 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/10
+2026-05-05 16:41:22 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/12
+2026-05-05 16:41:22 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/24
+2026-05-05 16:41:27 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/white_paper/mca2026
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/1094
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/906
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/774
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/932
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/889
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/940
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/1364
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/1472
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/890
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/1155
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/649
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/243
+2026-05-05 16:41:34 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/training/detai/653
+2026-05-05 16:41:37 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/110
+2026-05-05 16:41:37 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/109
+2026-05-05 16:41:37 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/77
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1691
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2223
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1371
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2761
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2792
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2710
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/888
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2798
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2756
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2800
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2793
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2790
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1039
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2340
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1805
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2799
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1348
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2264
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1387
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1336
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2755
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2796
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2759
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2802
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2797
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1367
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1482
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1755
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2794
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/656
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1051
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/907
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1066
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2229
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1816
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/212
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1484
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/2758
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1373
+2026-05-05 16:41:43 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/free/1817
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/205
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2825
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/759
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/819
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/915
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/719
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2926
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/1038
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/945
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2819
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/865
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2917
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/979
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2726
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/909
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/947
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/1267
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2757
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2402
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/983
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2936
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/1033
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2863
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/952
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/1101
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/911
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2722
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/1002
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/980
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/870
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/899
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2831
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/646
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/297
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2829
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/337
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/1633
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/939
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/2727
+2026-05-05 16:41:55 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/course/985
+2026-05-05 16:41:56 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/live/2763
+2026-05-05 16:41:56 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/live/1380
+2026-05-05 16:41:56 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/live/2923
+2026-05-05 16:42:05 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/4
+2026-05-05 16:42:05 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/subject/6
+2026-05-05 16:42:08 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [2] https://www.mashibing.com/schedule
+2026-05-05 16:42:14 | INFO     | src.crawler.async_crawler:crawl_page:68 - Crawling [3] http://mashibing.com/
+2026-05-05 16:44:54 | INFO     | __main__:main:43 - Crawled 163 pages
+2026-05-05 16:44:54 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:45:11 | INFO     | src.indexer.whoosh_indexer:optimize:80 - Index optimized
+2026-05-05 16:45:11 | INFO     | __main__:main:59 - Indexing completed
+2026-05-05 16:48:32 | INFO     | src.indexer.whoosh_indexer:_init_index:36 - Opened existing index at ./data/index
+2026-05-05 16:48:32 | INFO     | __main__:main:81 - Starting API server
+2026-05-05 16:48:32 | INFO     | src.api.fastapi_app:run:165 - Starting FastAPI server on 0.0.0.0:8000
+2026-05-05 16:50:33 | ERROR    | src.searcher.search_engine:suggest:98 - Suggest error: 'Schema' object has no attribute 'parse_query'
+2026-05-05 16:50:33 | ERROR    | src.searcher.search_engine:suggest:98 - Suggest error: 'Schema' object has no attribute 'parse_query'
